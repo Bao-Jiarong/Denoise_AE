@@ -68,5 +68,5 @@ Epoch | True image and predicted image
 ##### Flowers dataset training procedure     
 <p></p>  
 <center>
-<img src="img/chart.png" align="center" width="700" height="300"/>
+<img src="img/chart.png" align="center" width="700" height="500"/>
 </center>   
